@@ -9,14 +9,14 @@ Hello! I'm Vikrant Mishra, a passionate graphic design freelancer specializing i
 ## Services Offered
 As a graphic design freelancer, I provide the following services:
 
-### Social Media Posts: ##### Engaging and eye-catching designs optimized for various social media platforms.
-### Blog Images: ##### Illustrations, headers, and visuals that complement blog content.
-### Flyers and Posters: ##### Promotional materials designed to grab attention and convey key messages effectively.
-### Standees and Banners: ##### Large-format designs for events, exhibitions, and advertising purposes.
-### Brochures: ##### Informative and visually appealing materials for marketing and information dissemination.
-### Instagram Reels: ##### Creative and captivating visuals tailored for Instagram's dynamic video format.
-### Presentations: ##### Professional and visually impactful slides for business or academic purposes.
-### Resumes: ##### Creative and modern designs to enhance personal branding and professional presentation.
+### Social Media Posts: Engaging and eye-catching designs optimized for various social media platforms.
+### Blog Images: Illustrations, headers, and visuals that complement blog content.
+### Flyers and Posters: Promotional materials designed to grab attention and convey key messages effectively.
+### Standees and Banners: Large-format designs for events, exhibitions, and advertising purposes.
+### Brochures: Informative and visually appealing materials for marketing and information dissemination.
+### Instagram Reels: Creative and captivating visuals tailored for Instagram's dynamic video format.
+### Presentations: Professional and visually impactful slides for business or academic purposes.
+### Resumes: Creative and modern designs to enhance personal branding and professional presentation.
 
 ## Portfolio
 Check out my portfolio here to see examples of my previous work and the quality I deliver.
